@@ -1,4 +1,4 @@
-# Rdmapper [![Build Status](https://travis-ci.org/AlbertGazizov/rdmapper.png)](https://travis-ci.org/AlbertGazizov/rdmapper) [![Code Climate](https://codeclimate.com/github/AlbertGazizov/rdmapper.png)](https://codeclimate.com/github/AlbertGazizov/rdmapper)
+# Rdmapper [![Build Status](https://travis-ci.org/AlbertGazizov/rdmapper.png)](https://travis-ci.org/AlbertGazizov/rdmapper)
 
 
 Rdmapper is a library for implementing the Mapper in the DataMapper pattern on Ruby
